@@ -53,6 +53,7 @@ nav {
     font-weight: 600;
     color: #0d213f;
     cursor: pointer;
+    padding-left:10px;
   }
   
   .nav__logo span {
@@ -89,6 +90,7 @@ nav {
   @media (max-width: 768px) {
     .nav__logo {
       margin-right: auto;
+      padding-left:center;
     }
   
     .nav__icon {
